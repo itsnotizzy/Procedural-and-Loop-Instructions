@@ -19,6 +19,10 @@
 
 ---
 
+This program is divided into three sections: data, text, and bss. The data section stores messages displayed to the user. The text section contains the program instructions. It starts by prompting the user for input, then reads it. It compares the input to 5 and jumps to different sections (below_input, equal_input, and above_input) based on the result. Each section displays a corresponding message, then the program exits. The bss section reserves memory for the user input.
+
+---
+
 🖥️ Pre-final Task Performance for my 3rd-year college course "Computer Organization."
 > SY2324-2T
 
